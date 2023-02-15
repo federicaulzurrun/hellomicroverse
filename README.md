@@ -17,9 +17,9 @@
 - [📝 License](#license)
 
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
-**[Hello Microverse]** is a simple project that only has html and css. It's my first project as a micronout.
+**Hello Microverse** is a simple project that only has html and css. It's my first project as a micronout.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -104,7 +104,7 @@ Install this project linters: *do not change the any config file in any way*    
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Build the entire page]**
+- **Build the entire page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,6 +139,5 @@ I would like to thank Microverse for letting me be a part of something as huge a
 
 This project is [MIT](./LICENSE) licensed.
 
-(https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
